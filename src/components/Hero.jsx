@@ -14,7 +14,7 @@ function Hero({handleLogIn}) {
       <TopHero>
         <Wrapper>
           <div style={{paddingTop: 24}}>
-            <h1>The path to your next</h1>
+            <h1>The path to your nextt</h1>
             <h2>Open Source</h2>
             <h1>contribution and more pizza.</h1>
           </div>
